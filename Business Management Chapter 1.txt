@@ -1,0 +1,65 @@
+Business Management Chapter 1
+set fold method=manual :mkview :loadview
+
+`Role of Business in Society`
+> Activities involved in the transformation of resources into a product or service, 4 elements
+--
+
+      - Human activities
+      - Production
+      - Exchange
+      - Profit
+
+
+`1.2.1 Need and Need Satisfaction`
+>Maslows needs are
+--
+
+   "Maslow's" needs are
+      * Physical needs /water 
+      * Security needs /work
+      * Social needs /friends
+      * Esteem needs /feeling of self fulfillment
+      * Self-realisation or actualisation needs /becoming the best one can be
+
+`1.2.2 Society's Limited Resources`
+> 4 Limited resources are
+--
+
+   * Natural resources: *production factor of land*
+   * Human resources: *production factor of labour*
+   * Capital: *Buildings*
+   * Entrepreneurship
+
+`1.2.3 Need Satisfaction Cycle`
+   The community decides which institutions should be responsible for the production and distibution
+   of products and services as well as the roll each institution has to play in the economic system
+   in which these need-satisfying institutions are established
+> Three main role-players in the need satisfaction cycle
+--
+
+   * The community
+   * The entrepreneur
+   * The economic system
+
+
+`1.4 Main Economic System`
+>    There are 3 main economic systems that exist
+--
+   * Market economy also known as free-market economy or system
+   * Command economy
+   * Socialism
+
+
+> List the seven business functions
+--
+   * General Management
+   * Marketing Management
+   * Financial Management
+   * Production and operations Management
+   * Human resource Management
+   * Public-relations Management
+
+
+
+
